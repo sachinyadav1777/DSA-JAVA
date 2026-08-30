@@ -1,28 +1,26 @@
 ☕ Java DSA
 <div align="center">
-Data Structures & Algorithms in Java
-
-Learn • Implement • Practice • Improve
-
+🚀 Data Structures & Algorithms in Java
+💡 Learn • Implement • Practice • Improve
 </div>
-About
+📖 About
 
 A personal collection of Data Structures & Algorithms implementations and problem-solving practice in Java.
 
 Focused on building strong fundamentals, improving logical thinking, and writing efficient solutions.
 
-Topics
+📚 Topics
 
-Arrays · Strings · Linked List · Stack · Queue · Hashing
-Searching · Sorting · Recursion · Backtracking · Trees · Graphs
-Heap · Trie · Greedy · Dynamic Programming · Bit Manipulation
+🔢 Arrays · Strings · Linked List · Stack · Queue · Hashing
+🔍 Searching · Sorting · Recursion · Backtracking · Trees · Graphs
+🌳 Heap · Trie · Greedy · Dynamic Programming · Bit Manipulation
 
-Tech
+🛠️ Tech
 
-Java · JDK · IntelliJ IDEA · Git
+☕ Java · 📦 JDK · 💻 IntelliJ IDEA · 🔧 Git
 
-Author
+👨‍💻 Author
 
 Sachin Yadav
 
-Code. Learn. Solve. Repeat. 🚀
+🚀 Code. Learn. Solve. Repeat.
