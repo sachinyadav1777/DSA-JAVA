@@ -12,7 +12,7 @@ public class Check_String_Palindrome {
         }
         return true;
     }
-    public static void main(String [] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the String to check: ");
         String str = sc.nextLine();
